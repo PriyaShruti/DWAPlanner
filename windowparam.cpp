@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-#include <windowparam.hpp>
+#include <trajectory.cpp>
 
 
 vector<float> createDynamicWindow(state currentState)

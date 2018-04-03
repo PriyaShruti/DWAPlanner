@@ -1,5 +1,5 @@
 #include<bits/stdc++.h> 
-#include<windowparam.hpp>
+#include<windowparam.cpp>
 
 using namespace std;
 
